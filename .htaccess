@@ -1,0 +1,2 @@
+AuthName "PORTAL"
+AuthUserFile "/home/precmkld/.htpasswds/portal.preciousmomentsschool.com/passwd"
